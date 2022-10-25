@@ -1,1 +1,26 @@
+h1 {
+    background-color:chartreuse;
+    }
+    p {
+        background-color: darkmagenta;
+    }
 
+h1 { padding: 20px 30px;
+
+}
+p {
+    padding: 10px 20px ;
+}
+p { border: 2px dotted black; }
+p { 
+    border-top: 20px;
+    border-right: 15px;
+    border-bottom: 20px;
+    border-left: 15px;
+}
+p {
+    border: 5px solid black;
+}
+.style1 {
+    align-items: center;
+}
